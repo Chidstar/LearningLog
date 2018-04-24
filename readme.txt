@@ -1,0 +1,1 @@
+This is the inital commit for the Learning Log web app using Django. 
